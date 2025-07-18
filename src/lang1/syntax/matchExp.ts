@@ -5,7 +5,7 @@ import {
   matchSymbol,
   v,
   type Sexp,
-} from "@cicada-lang/sexp"
+} from "@xieyuheng/sexp"
 import { type Binding, type Exp } from "../exp/index.js"
 
 export function matchExp(sexp: Sexp): Exp {

@@ -1,1 +1,1 @@
-export { ParsingError } from "@cicada-lang/sexp"
+export { ParsingError } from "@xieyuheng/sexp"

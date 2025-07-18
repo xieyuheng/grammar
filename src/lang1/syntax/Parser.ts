@@ -1,4 +1,4 @@
-import { Parser as SexpParser } from "@cicada-lang/sexp"
+import { Parser as SexpParser } from "@xieyuheng/sexp"
 import { type Stmt } from "../stmt/index.js"
 import { matchStmt } from "./matchStmt.js"
 

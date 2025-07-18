@@ -1,4 +1,4 @@
-import { Fetcher } from "@cicada-lang/framework/lib/fetcher/index.js"
+import { Fetcher } from "@xieyuheng/framework/lib/fetcher/index.js"
 import * as Errors from "../errors/index.js"
 import { createMod, modExecuteStmts, type Mod } from "../mod/index.js"
 import { type Stmt } from "../stmt/index.js"
